@@ -57,7 +57,7 @@ Without established decision making protocols, progress, development, and growth
 
 Block Rewards & Voting Rights
 -----------------------------------
-Masternode owners are rewarded for their service to the network, with a portion of the block reward being sent to a masternode in a round robin fashion on the creation of each block, and are also given voting rights to participate in governance decisions.
+Masternode owners are rewarded for their service to the network, with a portion of the block reward being sent to a masternode in a round robin fashion on the creation of each block.
 
 ***Frequently asked Questions***
 =====================
