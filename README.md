@@ -68,7 +68,7 @@ A Masternode is a specially configured wallet that will support the network in m
 
 Why should I run a Masternode?
 -----------------------------------
-Being a Masternode holder is incentivized by being rewarded more BTCA than stakers through the higher block reward. Masternode reward is equal to 0.9 BTCA, while staking reward is 0.1 BTCA per block. Masternode holders also gain the ability to take part in the BTCA DAO by voting on proposals in the network.
+Being a Masternode holder is incentivized by being rewarded more BTCA than stakers through the higher block reward. Masternode reward is equal to 0.9 BTCA, while staking reward is 0.1 BTCA per block.
 
 What does it mean to lock coins as Masternode collateral?
 -----------------------------------
